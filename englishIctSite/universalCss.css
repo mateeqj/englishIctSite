@@ -1,0 +1,66 @@
+.divTopOne{
+		height: 150px;
+		border: 5px outset #ffffcc;
+		background-color: #0A2F4F;
+		text-align: center;
+			}
+.divTopTwo{
+		height: 75px;
+		padding: 10px;
+		border: 5px outset #ffffcc;
+		background-color: #0A2F4F;
+		text-align: center;
+			}
+.divTTInside{
+			color: white;
+			height: 75px;
+			width: 314.4px;
+			border: 2px outset #ffffcc;
+			background-color: #124975;
+			float: left;
+			cursor: pointer;
+			text-decoration: none;
+			}
+.divTTInside:hover {
+			background-color: #0A2F4F;
+			}
+.divTTInside:focus {
+			outline: 5px solid yellow;
+			}
+.divMiddleContainer{
+			display: flex;
+				}
+.divMiddleOne{
+			flex: 6;
+			color: white;
+			height: 500px;
+			border: 5px outset #ffffcc;
+			background-color: #0A2F4F;
+			text-align: center;
+			float: left;
+				}
+.divMiddleTwo{
+			flex: 4;
+			color: white;
+			height: 500px;
+			border: 5px outset #ffffcc;
+			background-color: #0A2F4F;
+			text-align: center;
+			float: right;
+				}
+.divBottomOne{
+			color: white;
+			height: 132px;
+			border: 5px outset #ffffcc;
+			background-color: #0A2F4F;
+			text-align: center;
+			clear: both;
+				}
+.divMiddleArticles{
+			color: white;
+			width: auto;
+			height: 500px;
+			border: 5px outset #ffffcc;
+			background-color: #0A2F4F;
+			text-align: center;
+				}
