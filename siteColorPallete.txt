@@ -1,0 +1,3 @@
+pageBackground: #0A2F4F
+divBorder: #ffffcc
+divBackground: #0A2F4F
